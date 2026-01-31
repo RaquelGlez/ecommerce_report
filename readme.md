@@ -33,7 +33,7 @@ El foco está en **entender los datos y extraer observaciones generales**, más 
 El proyecto está organizado en varios notebooks, cada uno enfocado en una etapa del proceso de análisis (preparación de datos, exploración, análisis geográfico y generación de insights).
 
 👉 **Para recorrer el proyecto completo y acceder a cada notebook con contexto y explicaciones, consulta el notebook principal:**  
-**[Abrir main notebook en Google Colab]()**
+**[Abrir main notebook en Google Colab](https://colab.research.google.com/github/RaquelGlez/ecommerce_report/blob/main/notebooks/main_notebook.ipynb)**
 
 ---
 
